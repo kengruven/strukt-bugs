@@ -1,6 +1,6 @@
 ## ![][logo] Strukt Bugs
 
-[logo]: ./logo.svg
+[logo]: https://kengruven.github.io/strukt-bugs/logo.svg
 
 This is the public bug tracking database for Strukt.  I encourage
 everyone to submit and [vote] on issues here, even if you aren't (yet)
