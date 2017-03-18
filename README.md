@@ -18,11 +18,11 @@ Feel free to use this for:
 
  - **bugs** you find (I know there must be a few!)
 
- - **features** you wish it had --- like data sources,
+ - **features** you wish it had &mdash; like data sources,
    parsers/generators, output views, or value types
 
- - **performance** problems --- please include an example of your slow
-   pipeline
+ - **performance** problems &mdash; please include an example of your
+   slow pipeline
 
  - **workflow** issues, where something isn't technically wrong, but
    the design could be improved to operate more smoothly
