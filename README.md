@@ -2,10 +2,11 @@
 
 [logo]: https://kengruven.github.io/strukt-bugs/logo.svg
 
-This is the public bug tracking database for Strukt.  I encourage
+This is the public bug tracking database for [Strukt][mas].  I encourage
 everyone to submit and [vote] on issues here, even if you aren't (yet)
 a Strukt user.
 
+[mas]: https://itunes.apple.com/us/app/strukt/id1216958923?ls=1&mt=12
 [vote]: https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments
 
 
